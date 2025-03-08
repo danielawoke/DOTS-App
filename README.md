@@ -1,1 +1,1 @@
-Go to src/components/selectionScreen.vue, and the varible prmp1 and prmp2 are the two prompts where the AI is being used. Modify them to experiment with the error
+Made for I4C hackathon, I'll write the readme later. The App speaks for itself.
