@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/6dcecc0b-477e-4fa5-896c-11c690b04aa3)
 
-EY and UMD DOTS have worked in collaboration with eachother for nearly 5 years to obtain a model/automated based solution to the for the frequent parking changes UMD would be exposed to, and the delima it posses.
+Ernest & Young (EY) and UMD DOTS have worked in collaboration with eachother for nearly 5 years to obtain a model/automated based solution to the for the frequent parking changes UMD would be exposed to, and the delima it posses.
 
 ![image](https://github.com/user-attachments/assets/8e1c0ea8-3a42-4457-9e8b-32fb46ad4568)
 
